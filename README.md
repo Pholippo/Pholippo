@@ -1,46 +1,34 @@
-<h1 align="center">Hi, I'm Philipp 👋🦊</h1>
+<h1 align="center">Hi, I'm Philipp 👋</h1>
 
 <p align="center">
-  <b>18 y/o builder from Carinthia, Austria 🇦🇹</b><br>
-  I ship <b>games, apps & AI agents</b> — usually solo, usually fast.<br>
-  Electronics student by day, shipping side projects the rest of the time.
+  <b>16 · HTL student (Electronics & Technical Computer Science) from Carinthia, Austria 🇦🇹</b><br>
+  I build software products by <b>planning, directing and reviewing AI coding agents</b>.<br>
+  Learning to program properly — Java at school. Looking for a software engineering internship in summer 2027.
 </p>
 
 <p align="center">
-  <a href="https://pholippo.itch.io"><img src="https://img.shields.io/badge/itch.io-play%20my%20games-fa5c5c?style=for-the-badge&logo=itchdotio&logoColor=white"></a>
-  <a href="https://x.com/pholippo"><img src="https://img.shields.io/badge/X-%40pholippo-000000?style=for-the-badge&logo=x&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/philippgrabner"><img src="https://img.shields.io/badge/LinkedIn-Philipp%20Grabner-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://youtube.com/@mtbphilipp"><img src="https://img.shields.io/badge/YouTube-@mtbphilipp-ff0000?style=for-the-badge&logo=youtube&logoColor=white"></a>
 </p>
 
 ---
 
-### ⚡ What I build
+### How I work
 
-- 🤖 **AI agents & automation** — multi-agent workflows, local LLMs, bots, "systems that work while I sleep"
-- 🎮 **Browser & arcade games** — one-tap, zero-dependency, ship-in-a-day
-- 📱 **Apps** — like *Märchenfuchs*, an AI bedtime-story app for kids
-- 🚵 Off the keyboard: mountain biking my home trails
+- I write the idea, the requirements and the acceptance criteria.
+- AI coding agents (Claude Code, several in parallel) write the code.
+- I make them test everything, review the results, try it myself and decide what ships.
+- I run what I build — when something breaks in production, it's on me.
 
-### 🎯 Featured
+### Projects
 
-| Project | What it is | |
-|---|---|---|
-| **[Rush Crash](https://github.com/Pholippo/rush-crash)** | One-tap traffic-control game with real crash physics · EN/DE/RU | [▶ Play](https://pholippo.itch.io/rush-crash) |
-| **[Orbit Leap](https://github.com/Pholippo/orbit-leap)** | Slingshot your orb from planet to planet through the cosmos | [▶ Play](https://pholippo.github.io/orbit-leap) |
+| Project | What it is |
+|---|---|
+| **agentfenster** | Lets AI agents operate Windows apps on an invisible second desktop — never takes over the user's mouse, verifies every action against the window, reports failures honestly. 10,000+ automated tests. |
+| **SoulCodes web app** | Member area, access codes and checkout for a coaching business — live since September 2026 with several hundred customers. I handle operations and customer issues. |
+| **[Orbit Leap](https://github.com/Pholippo/orbit-leap)** | One-tap arcade game, built with AI agents · [▶ Play](https://pholippo.github.io/orbit-leap) |
+| **[CLAUDE'S GAME](https://github.com/Pholippo/claudes-game)** | A game built by an AI, one YouTube comment at a time |
 
-### 🛠️ Tech I reach for
+### Off the keyboard
 
-![JavaScript](https://img.shields.io/badge/JavaScript-f7df1e?style=flat&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776ab?style=flat&logo=python&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569b?style=flat&logo=flutter&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-7f52ff?style=flat&logo=kotlin&logoColor=white)
-![Three.js](https://img.shields.io/badge/Three.js-000000?style=flat&logo=threedotjs&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
-
----
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Pholippo&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pholippo&layout=compact&theme=tokyonight&hide_border=true&count_private=true" height="165">
-</p>
-
-<p align="center"><i>Building in public — one project at a time. 🦊</i></p>
+🚵 Mountain biking & filming · 🛩️ FPV drones · 🖨️ 3D printing · ⚡ Technicus Award 2024 — 1st place
