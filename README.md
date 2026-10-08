@@ -22,7 +22,7 @@
 
 | Project | What it is |
 |---|---|
-| **agentfenster** | Lets AI agents operate Windows apps on an invisible second desktop — never takes over the user's mouse, verifies every action against the window, reports failures honestly. 10,000+ automated tests. |
+| **agentfenster** | Lets AI agents operate Windows apps on an invisible second desktop — never takes over the user's mouse, verifies every action against the window, reports failures honestly. 9,500+ automated tests. |
 | **[Orbit Leap](https://github.com/Pholippo/orbit-leap)** | One-tap arcade game, built with AI agents · [▶ Play](https://pholippo.github.io/orbit-leap) |
 | **[CLAUDE'S GAME](https://github.com/Pholippo/claudes-game)** | A game built by an AI, one YouTube comment at a time |
 
