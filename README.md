@@ -7,11 +7,8 @@
 </p>
 
 <p align="center">
-  <a href="https://philipp-grabner.com"><img src="https://img.shields.io/badge/Website-philipp--grabner.com-111111?style=for-the-badge&logo=googlechrome&logoColor=white"></a>
-  <a href="https://work.philipp-grabner.com"><img src="https://img.shields.io/badge/Work%20%2F%20CV-English-444444?style=for-the-badge&logo=readdotcv&logoColor=white"></a>
   <a href="https://www.linkedin.com/in/philippgrabner"><img src="https://img.shields.io/badge/LinkedIn-Philipp%20Grabner-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="https://www.youtube.com/@mtbphilipp"><img src="https://img.shields.io/badge/YouTube-@mtbphilipp-ff0000?style=for-the-badge&logo=youtube&logoColor=white"></a>
-  <a href="mailto:philipp@philipp-grabner.com"><img src="https://img.shields.io/badge/Email-philipp@philipp--grabner.com-555555?style=for-the-badge&logo=maildotru&logoColor=white"></a>
 </p>
 
 ---
@@ -41,9 +38,8 @@ Tools that make AI agents more useful on a normal Windows PC, built with [@cleme
 
 | Project | What it is |
 |---|---|
-| **[MEGA-PARTY](https://github.com/Pholippo/raspi-klassen-party)** | Class party game for the Raspberry Pi board we soldered at school — everyone vs. everyone, LEDs are the score, plus browser rounds |
+| **[PiArena](https://github.com/Pholippo/pi-arena)** | Class party game for the Raspberry Pi board we soldered at school — everyone vs. everyone, LEDs are the score, plus browser rounds |
 | **[Orbit Leap](https://github.com/Pholippo/orbit-leap)** | One-tap arcade game · [▶ Play](https://pholippo.github.io/orbit-leap) |
-| **[CLAUDE'S GAME](https://github.com/Pholippo/claudes-game)** | A game built by an AI, one YouTube comment at a time · [▶ Play](https://pholippo.github.io/claudes-game) |
 
 ### How I work
 
