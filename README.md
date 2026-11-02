@@ -39,7 +39,6 @@ Tools that make AI agents more useful on a normal Windows PC, built with [@cleme
 | Project | What it is |
 |---|---|
 | **[PiArena](https://github.com/Pholippo/pi-arena)** | Class party game for the Raspberry Pi board we soldered at school — everyone vs. everyone, LEDs are the score, plus browser rounds |
-| **[Orbit Leap](https://github.com/Pholippo/orbit-leap)** | One-tap arcade game · [▶ Play](https://pholippo.github.io/orbit-leap) |
 
 ### How I work
 
